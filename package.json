@@ -1,0 +1,23 @@
+{
+  "name": "streamingservice-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "media-server.js",
+  "dependencies": {
+    "node-media-server": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorisBotermans/StreamingService-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorisBotermans/StreamingService-Server/issues"
+  },
+  "homepage": "https://github.com/FlorisBotermans/StreamingService-Server#readme"
+}
